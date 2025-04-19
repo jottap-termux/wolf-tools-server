@@ -1,18 +1,25 @@
 {
-  "tools": {
-    "Phishing": [
-      {
-        "name": "Wolf Phisher",
-        "repo": "https://github.com/jottap-termux/wolf-phisher.git",
-        "install_cmd": "bash install.sh"
-      }
-    ],
-    "OSINT": [
-      {
-        "name": "Wolf Eye",
-        "repo": "https://github.com/jottap-termux/wolf-eye.git",
-        "install_cmd": "pip3 install -r requirements.txt"
-      }
-    ]
-  }
+    "tools": {
+        "Phishing": [
+            {
+                "name": "Wolf Phisher",
+                "repo": "https://github.com/jottap-termux/wolf-phisher.git",
+                "install_cmd": "bash install.sh"
+            }
+        ],
+        "OSINT": [
+            {
+                "name": "Wolf Eye",
+                "repo": "https://github.com/jottap-termux/wolf-eye.git",
+                "install_cmd": "pip3 install -r requirements.txt"
+            }
+        ],
+        "SpecialTools": [
+            {
+                "name": "ghostpanel",
+                "repo": "https://github.com/kvgnx54/ghostpanel",
+                "install_cmd": "pip install requests"
+            }
+        ]
+    }
 }
