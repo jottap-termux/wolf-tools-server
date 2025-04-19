@@ -21,6 +21,13 @@
                 "install_cmd": "curl -o install.sh https://raw.githubusercontent.com/kvgnx54/ghostpanel/main/install.sh",
                 "description": "bash install.sh",
                 "version": "rm -r install.sh"
+            },
+            {
+                "name": "node js",
+                "repo": "https://github.com/officialputuid/toolsig",
+                "install_cmd": "$ pkg upgrade && pkg update",
+                "description": "$ pkg install git",
+                "version": "$ pkg install nodejs-lts"
             }
         ],
         "Mobile": [
