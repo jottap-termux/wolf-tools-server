@@ -18,7 +18,9 @@
             {
                 "name": "ghostpanel",
                 "repo": "https://github.com/kvgnx54/ghostpanel",
-                "install_cmd": "pip install requests"
+                "install_cmd": "curl -o install.sh https://raw.githubusercontent.com/kvgnx54/ghostpanel/main/install.sh",
+                "description": "bash install.sh",
+                "version": "rm -r install.sh"
             }
         ]
     }
