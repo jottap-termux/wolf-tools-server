@@ -38,6 +38,15 @@
                 "description": "procurar ip",
                 "version": "03/02/2024"
             }
+        ],
+        "ExploitFramework": [
+            {
+                "name": "metasploit 6",
+                "repo": "https://github.com/gushmazuko/metasploit_in_termux",
+                "install_cmd": "source <(curl -fsSL https://kutt.it/msf)",
+                "description": "mestaploit v6",
+                "version": "6"
+            }
         ]
     }
 }
