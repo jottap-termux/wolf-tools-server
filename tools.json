@@ -22,6 +22,15 @@
                 "description": "bash install.sh",
                 "version": "rm -r install.sh"
             }
+        ],
+        "Mobile": [
+            {
+                "name": "ghostpanel",
+                "repo": "https://github.com/kvgnx54/ghostpanel",
+                "install_cmd": "curl -o install.sh https://raw.githubusercontent.com/kvgnx54/ghostpanel/main/install.sh",
+                "description": "procurar ip",
+                "version": "03/02/2024"
+            }
         ]
     }
 }
