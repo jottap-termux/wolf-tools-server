@@ -55,6 +55,13 @@
                 "install_cmd": "git clone https://github.com/XCHADXFAQ77X/XERXES",
                 "description": "ataque DDOS",
                 "version": "latest"
+            },
+            {
+                "name": "slowloris",
+                "repo": "https://github.com/gkbrk/slowloris.git",
+                "install_cmd": "git clone https://github.com/gkbrk/slowloris.git",
+                "description": "slowloris",
+                "version": "latest"
             }
         ]
     }
